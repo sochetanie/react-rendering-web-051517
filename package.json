@@ -1,4 +1,5 @@
 {
+
   "name": "react-rendering",
   "version": "0.1.0",
   "description": "Introduction to the rendering phase in a REact component&#39;s lifecycle",
@@ -22,4 +23,5 @@
     "url": "https://github.com/learn-co-curriculum/react-rendering/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/react-rendering#readme",
+  
 }
